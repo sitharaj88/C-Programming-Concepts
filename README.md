@@ -40,3 +40,22 @@ Welcome to the **C Programming Concepts** repository! This repository is a compr
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/C-Programming-Concepts.git
+   ```
+
+2. Navigate to the desired folder and compile the C file:
+   ```bash
+   gcc filename.c -o output
+   ```
+
+3. Run the compiled program:
+   ```bash
+   ./output
+   ```
+
+## Contributing
+Contributions are welcome! If you'd like to add more examples or improve existing ones, feel free to open a pull request.
+
+## License
+This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
+
+
