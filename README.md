@@ -126,7 +126,7 @@ This section contains practical projects implemented in C.
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/C-Programming-Concepts.git
+   git clone https://github.com/sitharaj88/C-Programming-Concepts.git
 2. Navigate to the desired folder and compile the C file:
    ```bash
    gcc filename.c -o output
